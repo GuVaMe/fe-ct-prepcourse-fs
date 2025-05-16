@@ -1,2 +1,2 @@
 //string
-var NumeroDeimal (1,7)
+var Prueba (Prueba de string)
